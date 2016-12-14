@@ -4,8 +4,8 @@ Proyecto para la cátedra de Sistemas Operativos Avanzados de UNLaM. Se trata de
 
 Integrantes:
 
-Mancusi Camila
-Martinez Ivan
+Mancusi Camila; 
+Martinez Ivan; 
 Palacio Rocio
 
 Nombre del proyecto sugerido por: Carolina Martinez.
